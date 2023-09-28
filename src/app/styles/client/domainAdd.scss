@@ -1,0 +1,13 @@
+.domainAdd-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .left {
+        width: 79%;
+    }
+
+    .right {
+        width: 20%;
+    }
+}
